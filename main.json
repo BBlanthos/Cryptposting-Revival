@@ -1,9 +1,9 @@
 {
 	"id": "cryptposting",
 	"name": "Cryptposting",
-	"display_name": "Cryptposting",
+	"display_name": "Cryptposting Revival",
 	"author": [
-		"Glitchkat10 and Poker The Poker"
+		"Blanthos"
 	],
 	"description": "A collection of the Cryptid community's unfunniest shitposts. Order of items in the collection is by rarity, then based off of the order that they were created in the Cryptposting Idea Document. Cartomancer is highly recommended to be used with this mod.",
 	"prefix": "crp",
@@ -17,4 +17,5 @@
 		"Steamodded",
 		"Cryptid"
 	]
+
 }
